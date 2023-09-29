@@ -1,6 +1,6 @@
-#fzoom
-It is a webapp which shows the users registered restaurants near them and allows them to choose a restaurant, pick items and place dine in order request for a particular time. 
-This reservation can then be accepted or rejected from the restaurant side.
+# fzoom
+The backend part involves realtime processing of reservation requests. Where the restaurant can either decline or accept order requests, real time update the status of the order which can be monitored by the user. Finally the user can also give ratings , feedback and also log complaints. 
+Thus saving time for all and making Restaurant experiences seamless.
 
 # fzoom-backend
 Restful APIs for Restaurant automation application developed using Nodejs &amp; Express
